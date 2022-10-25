@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    background: #1C1C1C;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color:#1F2937;
+    user-select: none;
+}
+
+h1{
+    color: #FFFFFF
+}
+
+span{
+    color: #4ADF86
+}
+
+#title{
+    color:white;
+}
+
+#btn{
+    border-radius: 5px;
+    padding: 5px 10px;
+    background-color:  #4ADF86;
+    border: none;
+    outline: none;
+}
+
+#copy-btn{
+      border-radius: 5px;
+    padding: 5px 10px;
+    background-color:  #4ADF86;
+    border: none;
+    outline: none;
+    
+}
+
+#input{
+    border-radius: 5px;
+    padding: 5px 10px;
+    border: none;
+    outline: none;
+}
+
+div{
+    
+}
